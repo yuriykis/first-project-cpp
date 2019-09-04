@@ -1,0 +1,7 @@
+﻿  conio2.cpp
+  ConsoleApplication3.cpp
+  function.cpp
+c:\users\yuriykis\source\repos\consoleapplication3\consoleapplication3\function.cpp(1015): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+c:\users\yuriykis\source\repos\consoleapplication3\consoleapplication3\function.cpp(52): warning C4715: 'pobierz_klawisz': not all control paths return a value
+  ConsoleApplication3.vcxproj -> C:\Users\YuriyKis\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
